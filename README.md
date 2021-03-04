@@ -1,7 +1,7 @@
 # Rest API using JSON server and Webpack
 
 ## Simple Posts app
-JSON Server API - db.json
+JSON Server API - db.json\
 Http requests - async - await
 - get
 - posts
