@@ -1,7 +1,7 @@
 # Rest API using JSON server and Webpack
 
 ## Simple Posts app
-JSON Server API - db.json\
+JSON Server API - db.json <br>
 Http requests - async - await
 - get
 - posts
@@ -9,10 +9,10 @@ Http requests - async - await
 - delete
 
 ### Installation
-$ npm install
-$ npm run start
-$ npm run json:server
+$ npm install <br>
+$ npm run start <br>
+$ npm run json:server <br>
 
 ### Build
-Compile and build 
+Compile and build <br>
 $ npm run build
